@@ -9,4 +9,6 @@ sub code added
 
 mod in master
 
-stash check in master..
+stash check in master
+
+stash master > save 2
