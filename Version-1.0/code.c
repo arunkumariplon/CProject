@@ -8,4 +8,4 @@ sub code added..
 
 mod in sub code..
 
-stash check..
+stash check ok..
